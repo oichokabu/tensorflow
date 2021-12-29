@@ -1,5 +1,5 @@
 # Tensorflow使い方
-```python
+```s
 $ pip3 install --upgrade pip
 $ pip3 install tensorflow
 $ pip3 install tf-nightly
